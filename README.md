@@ -1,16 +1,24 @@
-### Hi there 👋
-
-<!--
-**ElProConLag/ElProConLag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img height="40" width="40" src="https://cdn.simpleicons.org/telegram/black/white" />](https://elproconlag.t.me)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/mastodon/black/white" />](https://chilemasto.casa/@elproconlag)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/liberapay/black/white" />](https://liberapay.com/ElProConLag)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/coursera/black/white" />](https://www.coursera.org/user/44186fe43c537eb323bcd954bbd48ce0)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/matrix/black/white" />](https://matrix.to/#/@elproconlag:fedora.im)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/xbox/black/white" />](https://account.xbox.com/profile?gamertag=ElProConLag)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/steamdb/black/white" />](https://steamdb.info/calculator/76561198185310826)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/wikipedia/black/white" />](https://es.wikipedia.org/wiki/Usuario:ElProConLag)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/yammer/black/white" />](https://www.yammer.com/mail.udp.cl/users/1745076166656)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/fedora/black/white" />](https://accounts.fedoraproject.org/user/elproconlag)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/mega/black/white" />](https://mega.nz/C!kAwixTzb)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/credly/black/white" />](https://www.credly.com/users/elproconlag/badges)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/linkedin/black/white" />](https://www.linkedin.com/in/elproconlag)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/gitlab/black/white" />](https://gitlab.com/camilo.pinto1)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/ieee/black/white" />](https://ieee-collabratec.ieee.org/app/p/CamiloPinto)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/canvas/black/white" />](https://udp.instructure.com/courses/10487/users/41283)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/mongodb/black/white" />](https://www.mongodb.com/community/forums/u/camilo.pinto1)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/unrealengine/black/white" />](https://dev.epicgames.com/community/profile/MmDaK/ElProConLag)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/hackerrank/black/white" />](https://www.hackerrank.com/profile/camilo_pinto1)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/geeksforgeeks/black/white" />](https://auth.geeksforgeeks.org/user/elproconlag)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/niantic/black/white" />](https://campfire.onelink.me/eBr8?af_dp=campfire://&af_force_deeplink=true)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/unitednations/black/white" />](https://elounge.unssc.org/user/profile.php?id=48925)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/pluralsight/black/white" />](https://app.pluralsight.com/profile/elproconlag)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/cisco/black/white" />](https://community.cisco.com/t5/user/viewprofilepage/user-id/1503686)
