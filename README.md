@@ -18,7 +18,6 @@
 [<img height="40" width="40" src="https://cdn.simpleicons.org/unrealengine/black/white" alt="Unreal Engine" />](https://dev.epicgames.com/community/profile/MmDaK/ElProConLag)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/hackerrank/black/white" alt="HackerRank" />](https://www.hackerrank.com/profile/camilo_pinto1)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/geeksforgeeks/black/white" alt="GeeksforGeeks" />](https://auth.geeksforgeeks.org/user/elproconlag)
-[<img height="40" width="40" src="https://cdn.simpleicons.org/niantic/black/white" alt="Niantic" />](https://campfire.onelink.me/eBr8?af_dp=campfire://&af_force_deeplink=true)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/unitednations/black/white" alt="United Nations" />](https://elounge.unssc.org/user/profile.php?id=48925)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/pluralsight/black/white" alt="Pluralsight" />](https://app.pluralsight.com/profile/elproconlag)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/cisco/black/white" alt="Cisco" />](https://community.cisco.com/t5/user/viewprofilepage/user-id/1503686)
