@@ -6,7 +6,6 @@
 [<img height="40" width="40" src="https://cdn.simpleicons.org/xbox/black/white" alt="Xbox" />](https://account.xbox.com/profile?gamertag=ElProConLag)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/steamdb/black/white" alt="SteamDB" />](https://steamdb.info/calculator/76561198185310826)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/wikipedia/black/white" alt="Wikipedia" />](https://es.wikipedia.org/wiki/Usuario:ElProConLag)
-[<img height="40" width="40" src="https://cdn.simpleicons.org/yammer/black/white" alt="Yammer" />](https://www.yammer.com/mail.udp.cl/users/1745076166656)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/fedora/black/white" alt="Fedora" />](https://accounts.fedoraproject.org/user/elproconlag)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/mega/black/white" alt="Mega" />](https://mega.nz/C!kAwixTzb)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/credly/black/white" alt="Credly" />](https://www.credly.com/users/elproconlag/badges)
