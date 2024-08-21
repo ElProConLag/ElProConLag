@@ -3,7 +3,6 @@
 [<img height="40" width="40" src="https://cdn.simpleicons.org/liberapay/black/white" alt="Liberapay" />](https://liberapay.com/ElProConLag)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/coursera/black/white" alt="Coursera" />](https://www.coursera.org/user/44186fe43c537eb323bcd954bbd48ce0)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/matrix/black/white" alt="Matrix" />](https://matrix.to/#/@elproconlag:fedora.im)
-[<img height="40" width="40" src="https://cdn.simpleicons.org/xbox/black/white" alt="Xbox" />](https://account.xbox.com/profile?gamertag=ElProConLag)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/steamdb/black/white" alt="SteamDB" />](https://steamdb.info/calculator/76561198185310826)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/wikipedia/black/white" alt="Wikipedia" />](https://es.wikipedia.org/wiki/Usuario:ElProConLag)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/fedora/black/white" alt="Fedora" />](https://accounts.fedoraproject.org/user/elproconlag)
