@@ -1,5 +1,7 @@
 [<img height="40" width="40" src="https://cdn.simpleicons.org/telegram/black/white" alt="Telegram" />](https://elproconlag.t.me)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/signal/black/white" alt="Signal" />](https://signal.me/#eu/CyALZqGLOkrLxl2Zh-3AHlA2tqzbsqUfTSiOPO9dJE67XBr2CcBFRql9fxUEG2bW)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/mastodon/black/white" alt="Mastodon" />](https://chilemasto.casa/@elproconlag)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/bluesky/black/white" alt="Bluesky" />](https://bsky.app/profile/elproconlag.bsky.social)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/liberapay/black/white" alt="Liberapay" />](https://liberapay.com/ElProConLag)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/coursera/black/white" alt="Coursera" />](https://www.coursera.org/user/44186fe43c537eb323bcd954bbd48ce0)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/matrix/black/white" alt="Matrix" />](https://matrix.to/#/@elproconlag:fedora.im)
