@@ -1,3 +1,4 @@
+[<img height="40" width="40" src="https://cdn.simpleicons.org/openstreetmap/black/white" alt="OpenStreetMap" />](https://www.openstreetmap.org/user/ElProConLag)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/telegram/black/white" alt="Telegram" />](https://elproconlag.t.me)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/signal/black/white" alt="Signal" />](https://signal.me/#eu/CyALZqGLOkrLxl2Zh-3AHlA2tqzbsqUfTSiOPO9dJE67XBr2CcBFRql9fxUEG2bW)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/mastodon/black/white" alt="Mastodon" />](https://chilemasto.casa/@elproconlag)
