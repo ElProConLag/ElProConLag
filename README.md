@@ -23,3 +23,4 @@
 [<img height="40" width="40" src="https://cdn.simpleicons.org/pluralsight/black/white" alt="Pluralsight" />](https://app.pluralsight.com/profile/elproconlag)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/cisco/black/white" alt="Cisco" />](https://community.cisco.com/t5/user/viewprofilepage/user-id/1503686)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/discord/black/white" alt="Discord" />](https://discord.gg/kKHW3tXj)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/whatsapp/black/white" alt="WhatsApp" />](https://wa.me/qr/OVXDWY2TN2FPF1)
