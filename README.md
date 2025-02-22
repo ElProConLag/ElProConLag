@@ -24,3 +24,4 @@
 [<img height="40" width="40" src="https://cdn.simpleicons.org/cisco/black/white" alt="Cisco" />](https://community.cisco.com/t5/user/viewprofilepage/user-id/1503686)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/discord/black/white" alt="Discord" />](https://discord.gg/kKHW3tXj)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/whatsapp/black/white" alt="WhatsApp" />](https://wa.me/qr/OVXDWY2TN2FPF1)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/mercadopago/black/white" alt="Mercado Pago" />](https://link.mercadopago.cl/elproconlag)
