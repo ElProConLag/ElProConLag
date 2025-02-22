@@ -25,3 +25,4 @@
 [<img height="40" width="40" src="https://cdn.simpleicons.org/discord/black/white" alt="Discord" />](https://discord.gg/kKHW3tXj)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/whatsapp/black/white" alt="WhatsApp" />](https://wa.me/qr/OVXDWY2TN2FPF1)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/mercadopago/black/white" alt="Mercado Pago" />](https://link.mercadopago.cl/elproconlag)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/khanacademy/black/white" alt="Khan Academy" />](https://es.khanacademy.org/profile/ElProConLag/badges)
