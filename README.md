@@ -26,3 +26,4 @@
 [<img height="40" width="40" src="https://cdn.simpleicons.org/whatsapp/black/white" alt="WhatsApp" />](https://wa.me/qr/OVXDWY2TN2FPF1)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/mercadopago/black/white" alt="Mercado Pago" />](https://link.mercadopago.cl/elproconlag)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/khanacademy/black/white" alt="Khan Academy" />](https://es.khanacademy.org/profile/ElProConLag/badges)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/googlebigquery/black/white" alt="Google BigQuery" />](https://www.cloudskillsboost.google/public_profiles/f2c13f83-6476-4bc7-9297-bf94fe529953/badges/12004216)
