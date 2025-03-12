@@ -40,3 +40,4 @@
 [<img height="40" width="40" src="https://cdn.simpleicons.org/uber/black/white" alt="Uber" />](https://referrals.uber.com/refer?id=ase3eua9gqbw)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/ubereats/black/white" alt="Uber Eats" />](https://ubereats.com/feed?promoCode=eats-hp613uzkue)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/ingress/black/white" alt="Ingress" />](https://link.ingress.com/?link=https%3A%2F%2Fintel.ingress.com%2Fagent%2FCEPRojas&apn=com.nianticproject.ingress&isi=576505181&ibi=com.google.ingress&ifl=https%3A%2F%2Fapps.apple.com%2Fapp%2Fingress%2Fid576505181&ofl=https%3A%2F%2Fwww.ingress.com%2F)
+[<img height="40" width="40" src="https://cdn.simpleicons.org/wise/black/white" alt="Wise" />](https://wise.com/pay/me/camiloestebanp5)
