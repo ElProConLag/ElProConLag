@@ -11,7 +11,6 @@
 [<img height="40" width="40" src="https://cdn.simpleicons.org/fedora/black/white" alt="Fedora" title="Fedora" />](https://accounts.fedoraproject.org/user/elproconlag)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/mega/black/white" alt="Mega" title="Mega" />](https://mega.nz/C!kAwixTzb)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/credly/black/white" alt="Credly" title="Credly" />](https://www.credly.com/users/elproconlag/badges)
-[<img height="40" width="40" src="https://cdn.simpleicons.org/linkedin/black/white" alt="LinkedIn" title="LinkedIn" />](https://www.linkedin.com/in/elproconlag)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/gitlab/black/white" alt="GitLab" title="GitLab" />](https://gitlab.com/camilo.pinto1)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/ieee/black/white" alt="IEEE" title="IEEE" />](https://ieee-collabratec.ieee.org/app/p/CamiloPinto)
 [<img height="40" width="40" src="https://cdn.simpleicons.org/canvas/black/white" alt="Canvas" title="Canvas" />](https://udp.instructure.com/courses/10487/users/41283)
